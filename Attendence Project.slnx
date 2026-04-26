@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Attendence Project/Attendence Project.vcxproj" Id="03ded5d4-bd6e-4a24-9083-c9d398279a36" />
+</Solution>
